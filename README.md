@@ -8,6 +8,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1. Import the required libraries such as NumPy, Matplotlib and Scikit-learn.
 2. Create a dataset containing student CGPA and IQ with placement status.
 3. Create and train the Logistic Regression model using the training data.
